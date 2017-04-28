@@ -1,0 +1,23 @@
+<?php
+ return array (
+  'id' => '5',
+  'info1' => '',
+  'info2' => '',
+  'info3' => '',
+  'info4' => '',
+  'info5' => '',
+  'info6' => '',
+  'info7' => '',
+  'info8' => '',
+  'info9' => '',
+  'info10' => '<div>請在<strong>後臺-內容管理-其他內容</strong>中修改此段文字</div><div>某某有限公司</div><div>電 &nbsp;話：0000-888888</div><div>郵 &nbsp;編：000000</div><div>Email：admin@admin.tc</div><div>網 &nbsp;址：www.xxxxx.tc</div>',
+  'imgurl1' => '',
+  'imgurl2' => '',
+  'rightmd5' => '',
+  'righttext' => '',
+  'authcode' => '',
+  'authpass' => '',
+  'authtext' => '',
+  'data' => '',
+  'lang' => 'tc',
+); ?>
